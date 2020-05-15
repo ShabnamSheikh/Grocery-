@@ -1,0 +1,45 @@
+*{
+    text-align:center;
+    margin:auto;
+    padding:auto;
+}
+.hidden{
+    display: none;
+    
+    
+    
+}
+body{
+    margin:0;
+    padding: 0;
+}
+table{
+    background-color:rgb(16, 29, 16);
+    color:rgb(238, 235, 237);
+    font-size: 20px;
+}
+.container{
+    background-color:#ffff;
+    border-radius: 10px;
+   
+}
+.container p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight:1000;
+    font-size: 50px;
+    color:rgb(18, 22, 18);
+    
+}
+
+
+.box{width:70%;
+    height:70%;
+    
+}
+button{
+    width:70px;
+    height:70px;
+    background-color:#ffff ;
+
+}
+
